@@ -5,34 +5,63 @@ This are the official datasets used on the Medicare.gov Hospital Compare Website
 Dataset fields:
 
 Provider ID
+
 Hospital Name
+
 Address
+
 City
+
 State
+
 ZIP Code
+
 County Name
+
 Phone Number
+
 Hospital Type
+
 Hospital Ownership
+
 Emergency Services
+
 Meets criteria for meaningful use of EHRs
+
 Hospital overall rating
+
 Hospital overall rating footnote
+
 Mortality national comparison
+
 Mortality national comparison footnote
+
 Safety of care national comparison
+
 Safety of care national comparison footnote
+
 Readmission national comparison
+
 Readmission national comparison footnote
+
 Patient experience national comparison
+
 Patient experience national comparison footnote
+
 Effectiveness of care national comparison
+
 Effectiveness of care national comparison footnote
+
 Timeliness of care national comparison
+
 Timeliness of care national comparison footnote
+
 Efficient use of medical imaging national comparison
+
 Efficient use of medical imaging national comparison
+
 Acknowledgements
+
 Dataset was downloaded from [https://data.medicare.gov/data/hospital-compare]
 
 Inspiration
