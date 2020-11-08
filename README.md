@@ -28,7 +28,7 @@ Hospital Ownership
 
 Emergency Services
 
-Meets criteria for meaningful use of EHRs
+Meets criteria for meaningful use of EHRs(Electronic Health Records, Renamed to HER during bayesian network Causality analysis)
 
 Hospital overall rating
 
